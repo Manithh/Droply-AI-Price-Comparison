@@ -13,11 +13,16 @@ Built with **Node.js**, **Express**, **Vite**, **TailwindCSS**, and **TypeScript
 - ⚙️ Secure & private — your data never leaves your system
 
 ---
+## 🖼️ Screenshots
+
 ### Homepage
 ![Homepage](screenshots/homepage_1.jpg)
-![Homepage](screenshots/homepage_2.jpg)
-![Homepage](screenshots/homepage_3.jpg)
 
+### Search Results
+![Search Results](screenshots/homepage_2.jpg)
+
+### Ollama AI Response
+![Ollama Response](screenshots/homepage_3.jpg)
 
 ---
 ## 🧠 How It Works
