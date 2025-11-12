@@ -16,13 +16,13 @@ Built with **Node.js**, **Express**, **Vite**, **TailwindCSS**, and **TypeScript
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage_1.jpg)
+![Homepage](screenshots/Homepage_1.jpg)
 
 ### Search Results
-![Search Results](screenshots/homepage_2.jpg)
+![Search Results](screenshots/Homepage_2.jpg)
 
 ### Ollama AI Response
-![Ollama Response](screenshots/homepage_3.jpg)
+![Ollama Response](screenshots/Homepage_3.jpg)
 
 ---
 ## 🧠 How It Works
