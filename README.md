@@ -13,7 +13,13 @@ Built with **Node.js**, **Express**, **Vite**, **TailwindCSS**, and **TypeScript
 - ⚙️ Secure & private — your data never leaves your system
 
 ---
+### Homepage
+![Homepage](screenshots/homepage_1.jpg)
+![Homepage](screenshots/homepage_2.jpg)
+![Homepage](screenshots/homepage_3.jpg)
 
+
+---
 ## 🧠 How It Works
 1. The user enters a query (e.g., “Find the cheapest Nike Pegasus 41”)
 2. The frontend sends the question to the Node.js backend via `/ask`
