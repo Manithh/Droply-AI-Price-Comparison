@@ -18,11 +18,11 @@ Built with **Node.js**, **Express**, **Vite**, **TailwindCSS**, and **TypeScript
 ### Homepage
 ![Homepage](screenshots/Homepage_1.jpg)
 
-### Search Results
-![Search Results](screenshots/Homepage_2.jpg)
 
-### Ollama AI Response
-![Ollama Response](screenshots/Homepage_3.jpg)
+(screenshots/Homepage_2.jpg)
+
+
+(screenshots/Homepage_3.jpg)
 
 ---
 ## 🧠 How It Works
